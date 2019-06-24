@@ -1,0 +1,459 @@
+2019-04-28 21:00:31,875 Future/Task exception was never retrieved
+EOFError
+2019-04-28 21:01:44,079 Future/Task exception was never retrieved
+EOFError
+2019-04-28 21:10:40,135 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:f3:d9:84] [victim (gateway) ip/mac : 192.168.5.2/00:0c:29:5c:9e:c8]
+2019-04-28 21:11:32,180 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:f3:d9:84] [victim (gateway) ip/mac : 192.168.5.2/00:0c:29:5c:9e:c8]
+2019-04-28 21:13:08,027 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:f3:d9:84] [victim (gateway) ip/mac : 192.168.5.2/00:0c:29:5c:9e:c8]
+2019-04-28 21:14:07,844 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:f3:d9:84] [victim (gateway) ip/mac : 192.168.5.2/00:0c:29:5c:9e:c8]
+2019-04-28 21:14:20,946 Future/Task exception was never retrieved
+EOFError
+2019-04-28 21:36:28,261 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:36:30,292 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:36:32,342 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:36:34,416 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:36:36,454 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:36:51,264 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:38:43,030 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:38:45,049 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-04-28 21:38:47,144 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (gateway) ip/mac : 172.20.10.3/00-D4-0C-EF-F3-49]
+2019-05-07 02:40:25,771 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-07 02:40:27,756 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-07 02:40:29,536 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-07 02:40:31,719 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-07 02:40:33,733 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-07 02:40:35,802 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-07 03:01:41,270 Alert : arpspoofing detected [attacker ip/mac : /44:1c:a8:99:d3:93] [victim (ying zhen's physical laptop) ip/mac : 172.20.10.8/44-1C-A8-99-D3-93]
+2019-05-07 03:01:43,209 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (ying zhen's physical laptop) ip/mac : 172.20.10.8/44-1C-A8-99-D3-93]
+2019-05-07 03:01:45,005 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (ying zhen's physical laptop) ip/mac : 172.20.10.8/44-1C-A8-99-D3-93]
+2019-05-07 03:01:47,085 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (ying zhen's physical laptop) ip/mac : 172.20.10.8/44-1C-A8-99-D3-93]
+2019-05-07 03:01:49,092 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (ying zhen's physical laptop) ip/mac : 172.20.10.8/44-1C-A8-99-D3-93]
+2019-05-07 03:01:51,155 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (ying zhen's physical laptop) ip/mac : 172.20.10.8/44-1C-A8-99-D3-93]
+2019-05-08 00:21:53,060 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:21:54,735 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:21:56,708 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:21:58,847 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:22:00,865 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:22:02,873 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:32:44,836 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:33:06,951 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 00:33:39,233 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 01:14:35,482 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 01:14:37,388 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 01:14:39,416 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 01:14:40,303 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 01:14:41,335 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-08 01:14:43,397 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:42:27,001 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:42:27,900 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:42:29,989 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:42:31,850 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:42:33,854 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:42:35,891 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:43:38,701 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:43:40,693 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:43:42,495 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:43:47,469 Future/Task exception was never retrieved
+EOFError
+2019-05-24 01:56:56,879 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:56:58,883 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:57:00,938 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 01:57:03,017 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:04:03,711 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:04:05,723 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:04:07,777 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:04:09,852 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:04:11,666 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:04:13,675 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:14:00,085 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:14:02,038 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:14:04,079 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:14:06,157 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:27:43,564 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:27:45,143 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:27:45,373 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:27:47,496 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:45:32,990 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:45:34,239 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:45:36,299 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:45:37,969 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:45:39,987 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:45:40,530 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:46:31,485 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:46:33,308 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:46:35,399 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:46:37,182 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:54:10,981 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:54:12,979 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:54:14,998 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:54:16,821 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:54:18,850 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:54:20,900 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:57:40,769 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:58:06,618 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:58:32,304 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:58:57,230 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:59:12,015 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 02:59:50,666 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:02:41,210 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:03:36,392 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:04:16,279 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:04:47,239 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:04:48,540 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:05:17,199 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:05:48,772 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:10:15,648 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:14:28,924 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:15:04,484 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:15:39,069 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:16:10,136 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:25:52,460 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:36:42,236 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:40:06,325 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:45:32,515 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:46:06,661 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-24 03:46:38,536 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:18,628 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:19,575 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:21,614 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:23,438 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:25,494 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:54,831 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:56,803 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:00:58,855 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:01:00,713 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:01:02,750 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:01:04,881 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:07:21,181 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:07:22,099 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:07:23,127 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:07:23,986 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:07:34,044 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-05-26 21:07:34,976 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-06-11 01:52:52,852 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-06-11 01:52:53,766 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-06-11 01:52:54,823 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-06-11 01:52:55,903 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-06-11 01:53:01,254 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-06-11 01:53:02,257 Alert : arpspoofing detected [attacker ip/mac : /00:50:56:c0:00:08] [victim (Physical laptop connected to Taylor's laptop) ip/mac : 192.168.5.1/08-D4-0C-EF-F3-49]
+2019-06-11 01:55:02,490 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-06-11 01:56:19,097 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-06-11 01:56:20,839 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-06-11 01:56:22,880 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-06-11 01:56:39,514 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-06-11 01:56:45,964 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-06-11 01:57:29,835 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+2019-06-11 02:08:17,605 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:08:19,613 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:08:21,655 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:08:23,469 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:08:25,527 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:08:27,566 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:09:37,493 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:09:46,184 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:09:47,932 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:09:49,984 Alert : arpspoofing detected [attacker ip/mac : /00:0c:29:5c:9e:c8] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:09:51,518 Alert : arpspoofing detected [attacker ip/mac : /08:d4:0c:ef:f3:49] [victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49] 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:10:48,302 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:10:55,728 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:10:57,708 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:10:59,744 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:01,594 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:03,623 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:05,678 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:38,727 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:11:46,730 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:48,753 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:50,792 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:52,917 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:11:54,933 Alert :
+[attacker ip/mac : /00:0c:29:5c:9e:c8]
+[victim (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+ 1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:15:42,942 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:15:49,479 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:15:51,477 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:15:53,519 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:15:54,791 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:15:56,559 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:15:58,601 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:16:11,322 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:16:47,637 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:16:49,645 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:22:24,512 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:25:36,147 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:25:38,143 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:25:39,940 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:25:41,993 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:25:44,069 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:25:46,105 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line
+2. Block IP address obtained.
+2019-06-11 02:32:45,596 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:37:20,170 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:37:22,176 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:37:35,270 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:41:21,452 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:41:23,462 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:41:25,506 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:41:27,601 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:41:29,644 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:41:31,664 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:08,541 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:10,792 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:12,960 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:15,062 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:17,115 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:18,911 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:23,672 Future/Task exception was never retrieved
+EOFError
+2019-06-11 02:42:57,681 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:42:59,684 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-11 02:43:12,549 Future/Task exception was never retrieved
+EOFError
+2019-06-12 05:28:38,796 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:28:39,789 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:28:41,809 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:28:43,934 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:28:45,956 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:29:03,341 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:34:53,407 Alert :
+[Attacker's ip/mac : /08:d4:0c:ef:f3:49]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:34:53,473 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:34:55,330 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:34:57,420 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:34:59,450 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
+2019-06-12 05:35:01,296 Alert :
+[Attacker's ip/mac : /00:0c:29:5c:9e:c8]
+[Victim's (hotspot physical laptop) ip/mac : 172.20.10.3/08-D4-0C-EF-F3-49]
+1. Run traceback.py in command line.
+2. Block the IP address obtained.
